@@ -17,7 +17,7 @@ class MoodSelector : AppCompatActivity() {
         val button_positif = findViewById<ImageButton>(R.id.button_positif)
         val button_negatif = findViewById<ImageButton>(R.id.button_negatif)
 
-        button_positif.setOnClickListener(View.OnClickListener { startActivity(Intent(this,Gallery::class.java)) })
+        button_positif.setOnClickListener(View.OnClickListener { startActivity(Intent(this,GratefulStatement::class.java)) })
         button_negatif.setOnClickListener(View.OnClickListener { startActivity(Intent(this,Gallery::class.java)) })
     }
 }
