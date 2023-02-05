@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14cf420a-f8c8-4619-9e1f-3900cc34b473" name="Changes" comment="" />
+    <list default="true" id="f26b57a7-f21b-4752-bb98-24daeb42878f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2LK6yL6gAMgiB8tKBTWVP8nLeWS" />
+  <component name="ProjectId" id="2LK6nwuxFnnGV5hv0ha07HLaFso" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,17 +24,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/emili/Documents/POLY/Hackaton/try2/HackatonPolyHx2023"
+    "last_opened_file_path": "C:/Hackaton2023/v3/HackatonPolyHx2023/app"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="14cf420a-f8c8-4619-9e1f-3900cc34b473" name="Changes" comment="" />
-      <created>1675607680350</created>
+      <changelist id="f26b57a7-f21b-4752-bb98-24daeb42878f" name="Changes" comment="" />
+      <created>1675607597950</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675607680350</updated>
+      <updated>1675607597950</updated>
     </task>
     <servers />
   </component>

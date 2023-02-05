@@ -1,4 +1,4 @@
-package com.example.boost
+package com.example.hackaton2023v2
 
 import android.content.Intent
 import android.os.Bundle
