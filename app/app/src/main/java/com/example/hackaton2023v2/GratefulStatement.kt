@@ -19,7 +19,7 @@ class GratefulStatement : AppCompatActivity() {
         val button = findViewById<Button>(R.id.button)
         val button2 = findViewById<Button>(R.id.back2)
 
-        button2.setOnClickListener(View.OnClickListener { startActivity(Intent(this,LetItOut::class.java))})
+        button2.setOnClickListener(View.OnClickListener { startActivity(Intent(this,Gallery::class.java))})
         button.setOnClickListener(View.OnClickListener {
             callActivity()
         })
@@ -33,7 +33,7 @@ class GratefulStatement : AppCompatActivity() {
         val date = LocalDateTime.now()
         val dateString = date.toString()
 
-        val intent = Intent(this,Gallery_scroll::class.java).also {
+        val intent = Intent(this,Gallery::class.java).also {
             it.putExtra("date",dateString)
             it.putExtra("text",userText)
             startActivity(it)
