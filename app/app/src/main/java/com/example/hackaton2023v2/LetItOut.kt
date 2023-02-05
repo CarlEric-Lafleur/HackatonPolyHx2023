@@ -14,8 +14,11 @@ class LetItOut : AppCompatActivity() {
         setContentView(R.layout.activity_let_it_out)
 
         val button = findViewById<Button>(R.id.button)
+        val back = findViewById<Button>(R.id.back)
 
         button.setOnClickListener(View.OnClickListener { startActivity(Intent(this,
             GratefulStatement::class.java)) })
+        back.setOnClickListener(View.OnClickListener { startActivity(Intent(this,
+            MoodSelector::class.java)) })
     }
 }
