@@ -70,6 +70,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="307dp"
         android:layout_marginBottom="78dp"
+        android:background="#CCA120"
         android:text="Back"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
